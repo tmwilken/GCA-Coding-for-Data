@@ -2,18 +2,11 @@
 This repository contains my assignments for the **Coding for Data** program at **Global Career Accelerator**. These assignments are real-world mini-projects, usually from a real company. It includes my work in SQL and Python.
 
 ## Contents
-
-```
-.
-├── sql/        # SQL assignments
-├── python/     # Python assignments
-└── README.md
-```
-
 | Folder | Description |
 |--------|-------------|
 | `sql/` | Queries and scripts covering SQL topics from the program |
 | `python/` | Python scripts and notebooks covering data-focused coding topics |
+| `ChatGPT-chat-responses/` | PDF copies of chat responses to assignment prompts. | 
 
 ## Topics Covered
 
@@ -30,15 +23,12 @@ This repository contains my assignments for the **Coding for Data** program at *
 - Data cleaning and transformation
 - Data analysis and visualization
 
-## Getting Started
-
 ### Tools
 - SQLPad 
 - Python 3
 - Jupyter Notebook or JupyterLab (for `.ipynb` files)
 
 ## Assignment Index
-
 ### SQL
 | Date | Assignment | Industry | Description |
 |:---|:---|:---| :--- |
