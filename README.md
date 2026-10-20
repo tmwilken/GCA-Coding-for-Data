@@ -4,9 +4,9 @@ This repository contains my assignments for the **Coding for Data** program at *
 ## Contents
 | Folder | Description |
 |--------|-------------|
+| `ChatGPT-chat-responses/` | PDF copies of chat responses to assignment prompts. |
 | `sql/` | Queries and scripts covering SQL topics from the program |
-| `python/` | Python scripts and notebooks covering data-focused coding topics |
-| `ChatGPT-chat-responses/` | PDF copies of chat responses to assignment prompts. | 
+| `python/` | Python scripts and notebooks covering data-focused coding topics | 
 
 ## Topics Covered
 
@@ -31,7 +31,7 @@ This repository contains my assignments for the **Coding for Data** program at *
 ## Assignment Index
 ### SQL
 | Status | Date | Assignment | Industry | Description |
-|:---|:---|:---| :--- |
+|:---|:---|:---| :--- | :--- |
 | Completed | 8-26-2026 | [YouTube Trending Analysis](./SQL/SQL_YouTube_Trending_Analysis.ipynb) | Digital Media | Analysis of YouTube trending data to see how views, likes, category, and publish timing influence trending. |
 | Completed | 9-2-2026 | Analyzing Startup Investments | B2B DaaS | Assessed capital allocation and closure rates in venture-backed companies, analyzed high-loss sectors to assess risk vs. ROI profile. |
 | 9-16-2026 | London Transit Analysis | Public Transportion | Analyzed London public transit ridership patterns, peak travel times, and line usage to inform service scheduling, resource allocation, and infrastructure planning.
@@ -40,7 +40,7 @@ This repository contains my assignments for the **Coding for Data** program at *
 
 ### Python
 | Status | Date | Assignment | Industry | Description |
-| :--- | :--- | :--- | :--- |
+| :--- | :--- | :--- | :--- | :--- |
 | In Review | 10-23-2026 | Hello, World! | n/a | Introduction to Jupyter Notebooks and Python Code |
 | In Progress | 10-23-2026 | Cleaning & Analyzing Revenue Data for ASOS | E-Commerce | Cleaned messy ASOS weekly revenue data to find monthly totals and the month with the highest average weekly revenue. |
 | Planned | 10-30-2026 | College Football Data Analysis | Sports | Analyzed Division I football and university data to inform recruitment, conference performance, and enrollment decisions. | 
