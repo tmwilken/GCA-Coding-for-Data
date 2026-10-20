@@ -70,4 +70,4 @@ I'm completing this program to build practical skills in working with and analyz
 
 ---
 
-*These assignments are my own work, completed as part of the Global Career Accelerator Coding for Data prog
+*These assignments are my own work, completed as part of the Global Career Accelerator Coding for Data program.
