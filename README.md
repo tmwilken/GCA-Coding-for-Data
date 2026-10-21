@@ -33,9 +33,9 @@ This repository contains my assignments for the **Coding for Data** program at *
 | Status | Date | Assignment | Industry | Description |
 |:---|:---|:---| :--- | :--- |
 | Completed | 8-26-2026 | [YouTube Trending Analysis](./SQL/SQL_YouTube_Trending_Analysis.ipynb) | Digital Media | Analysis of YouTube trending data to see how views, likes, category, and publish timing influence trending. |
-| Completed | 9-2-2026 | Analyzing Startup Investments | B2B DaaS | Assessed capital allocation and closure rates in venture-backed companies, analyzed high-loss sectors to assess risk vs. ROI profile. |
-| Completed | 9-16-2026 | London Transit Analysis | Public Transportion | Analyzed London public transit ridership patterns, peak travel times, and line usage to inform service scheduling, resource allocation, and infrastructure planning.
-| Completed | 9-16-2026 | NBA Performance Analysis | Professional Sports | Examined NBA team performance, scoring trends, and evolving playing styles across 17 seasons to identify drivers of team success and inform coaching strategies.
+| Completed | 9-2-2026 | [Analyzing Startup Investments](./SQL/SQL_Analyzing_Startup_Investments.ipynb) | B2B DaaS | Assessed capital allocation and closure rates in venture-backed companies, analyzed high-loss sectors to assess risk vs. ROI profile. |
+| Completed | 9-16-2026 | [London Transit Analysis](./SQL/SQL_London_Transit_Analyis.ipynb) | Public Transportion | Analyzed London public transit ridership patterns, peak travel times, and line usage to inform service scheduling, resource allocation, and infrastructure planning.
+| Completed | 9-16-2026 | [NBA Performance Analysis](./SQL/SQL_NBA_Performance_Analysis.ipynb) | Professional Sports | Examined NBA team performance, scoring trends, and evolving playing styles across 17 seasons to identify drivers of team success and inform coaching strategies.
 | Completed | 9-23-2026 | FastKitchen Customer Analysis | Food & Beverage | Consolidated registered and guest customer data using SQL outer joins to develop a comprehensive view of FastKitchen’s customer base and inform customer insights. |
 
 ### Python
