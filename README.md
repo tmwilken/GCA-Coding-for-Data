@@ -45,7 +45,7 @@ This repository contains my assignments for the **Coding for Data** program at *
 | In Progress | 10-23-2026 | Cleaning & Analyzing Revenue Data for ASOS | E-Commerce | Cleaned messy ASOS weekly revenue data to find monthly totals and the month with the highest average weekly revenue. |
 | Planned | 10-30-2026 | College Football Data Analysis | Sports | Analyzed Division I football and university data to inform recruitment, conference performance, and enrollment decisions. | 
 | Planned | 11-3-2026 | Build The Dr. Who!? Game | n/a | Created a game using Python coding. |
-| Planned |11-6-2026 | Capital Bikeshare Ride Analysis | Examined 2024 Capital Bikeshare ride data to find usage, distance, and station patterns that guide bike allocation and maintenance. |
+| Planned |11-6-2026 | Capital Bikeshare Ride Analysis | Public Transportation | Examined 2024 Capital Bikeshare ride data to find usage, distance, and station patterns that guide bike allocation and maintenance. |
 | Planned | 11-13-2026 | Exploratory Analysis of Olympic Athletes | Sports | Trend analysis of Olympic medalist data (1896-2016) to uncover trends among athletes, countries, and events. | 
 | Planned | 11-20-2026 | Planetary Weather Data Analysis | Aerospace | Investigated planetary rover weather data to infer which planet the measurements came from. |
 
